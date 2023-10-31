@@ -13,7 +13,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-000?style=for-the-badge&logo=ruby-on-rails)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-00B2A9?style=for-the-badge&logo=powerbi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 

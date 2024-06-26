@@ -1,5 +1,5 @@
 # Olá! Eu sou Vilson! 
-### Sou estudante de Análise e Desenvolvimento de Sistemas. Estou em busca de novos conhecimentos, oportunidades de aprendizado para auxiliar na minha recolocação no mercado de trabalho. 
+### Sou Desenvolvimento Front-End e estou em busca de novos conhecimentos, oportunidades de aprendizado para aumentar meus conhecimentos e contribuir para o crescimento e melhoria do ambiente de trabalho. 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vilson-camponucci-monteiro-379522107/)
@@ -11,9 +11,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+
 ![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-000?style=for-the-badge&logo=ruby-on-rails)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-00B2A9?style=for-the-badge&logo=powerbi&logoColor=white)

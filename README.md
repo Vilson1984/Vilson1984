@@ -1,5 +1,5 @@
 # Olá! Eu sou Vilson! 
-### Sou Desenvolvimento Front-End e estou em busca de novos conhecimentos, oportunidades de aprendizado para aumentar meus conhecimentos e contribuir para o crescimento e melhoria do ambiente de trabalho. 
+### Sou Desenvolvedor Front-End e estou em busca de novos conhecimentos, oportunidades de aprendizado para aumentar meus conhecimentos e contribuir para o crescimento e melhoria do ambiente de trabalho. 
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vilson-camponucci-monteiro-379522107/)
